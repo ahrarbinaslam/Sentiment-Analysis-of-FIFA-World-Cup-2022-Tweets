@@ -1,9 +1,9 @@
 # Sentiment Analysis of Tweets During the 2022 FIFA World Cup 🏆
 
-This project analyzes Twitter sentiments surrounding the 2022 FIFA World Cup held in Qatar. Using a dataset of over 22,500 tweets, we explore public opinion on the event through Natural Language Processing (NLP) techniques, aiming to uncover both the positive and negative sentiments shared by users.
+This project analyzes Twitter sentiments surrounding the 2022 FIFA World Cup held in Qatar. Using a dataset of over 22,500 tweets, I explore the public opinion on the event through Natural Language Processing (NLP) techniques, aiming to uncover both the positive and negative sentiments shared by users.
 
 ## 📄 Project Overview
-The 2022 FIFA World Cup drew significant global attention and, along with it, a vast array of public reactions on social media platforms like Twitter. This project utilized a dataset from Kaggle containing English-language tweets tagged with `#WorldCup2022`. By analyzing these tweets, we aimed to capture the emotional landscape surrounding the event, particularly noting the mix of enthusiasm for the tournament and concerns about human and migrant rights in Qatar.
+The 2022 FIFA World Cup drew significant global attention and, along with it, a vast array of public reactions on social media platforms like Twitter. This project utilized a dataset from Kaggle containing English-language tweets tagged with `#WorldCup2022`. By analyzing these tweets, I aimed to capture the emotional landscape surrounding the event, particularly noting the mix of enthusiasm for the tournament and concerns about human and migrant rights in Qatar.
 
 ## 📊 Dataset
 
@@ -13,7 +13,7 @@ The 2022 FIFA World Cup drew significant global attention and, along with it, a 
 
 ## 🛠 Methods
 
-We employed the following NLP techniques to analyze the dataset:
+I employed the following NLP techniques to analyze the dataset:
 
 - **VADER Sentiment Analysis**: VADER (Valence Aware Dictionary and sEntiment Reasoner) was used to categorize tweets into positive, negative, or neutral sentiments.
 - **Word Clouds**: Word clouds were generated to visualize the most frequently mentioned words in tweets, revealing common topics and sentiments around the event.
